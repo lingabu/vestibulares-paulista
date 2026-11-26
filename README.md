@@ -1,2 +1,2 @@
-# vestibulares-paulista
-Livros e materiais para vestibulares paulistas
+# Vestibulares Paulistas — Gabaru
+Livros e materiais para os vestibulares paulistas.
